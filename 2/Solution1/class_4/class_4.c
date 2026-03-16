@@ -4,7 +4,7 @@
 int main(void)
 {
 	int dec = 255; //decimal literal
-	int oct = 0377;//octal literal (prefix 0)
+	int oct = 377;//octal literal (prefix 0)
 	int hex = 0xFF;//hexadecimal literal (prefix 0x)
 
 	//All three are same value 255

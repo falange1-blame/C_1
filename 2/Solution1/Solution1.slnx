@@ -3,9 +3,22 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="class_10/class_10.vcxproj" Id="1e15c9a4-405f-4172-9e57-bbf4e1d90e83" />
+  <Project Path="class_11/class_11.vcxproj" Id="da16c81e-e45c-45c6-815a-d1a26c0adc54" />
+  <Project Path="class_12/class_12.vcxproj" Id="441f6371-0ae8-416d-9867-670efb03f77b" />
+  <Project Path="class_13/class_13.vcxproj" Id="6987ce8e-7ef3-4ee3-8f87-08ba56a3e8b7" />
+  <Project Path="class_14/class_14.vcxproj" Id="d893b12f-f853-4540-be94-71431c50f234" />
+  <Project Path="class_15/class_15.vcxproj" Id="b964294a-9ae1-49bb-86d8-ec307bca9a96" />
+  <Project Path="class_16/class_16.vcxproj" Id="a0128d20-1267-4415-ae0b-0c758ca6704a" />
+  <Project Path="class_17/class_17.vcxproj" Id="ed0f7ed0-22dd-4e7e-9abb-35e167fb7627" />
+  <Project Path="class_18/class_18.vcxproj" Id="1634d412-6ede-410e-bfe4-ca6b0128ae83" />
+  <Project Path="class_19/class_19.vcxproj" Id="24aa5f11-cdc4-42cc-ac57-2678c4d171dd" />
   <Project Path="class_4/class_4.vcxproj" Id="08ee00a0-5b1c-4cf7-ad48-feddebf81eb9" />
   <Project Path="class_5/class_5.vcxproj" Id="189b007b-6ed3-40f5-b5b1-ab4ab694cc52" />
   <Project Path="class_6/class_6.vcxproj" Id="8b4a980b-b0c9-426a-91e3-a6167f5edf0c" />
+  <Project Path="class_7/class_7.vcxproj" Id="c77af345-771f-405a-b6df-c8f173e615e7" />
+  <Project Path="class_8/class_8.vcxproj" Id="e2c90379-d66c-4c41-b786-e1b8b2f9ec56" />
+  <Project Path="class_9/class_9.vcxproj" Id="b9070426-7015-4e8f-9c64-649400839f6a" />
   <Project Path="class_n/class_n.vcxproj" Id="3320da26-c712-4b03-8725-1825e0bd0a9a" />
   <Project Path="practice_1/practice_1.vcxproj" Id="0dcddb0f-6303-4bbb-b904-f04aa07b74be" />
   <Project Path="practice_2/practice_2.vcxproj" Id="267fd553-69a2-4b9a-8018-0956cc7fb02e" />
