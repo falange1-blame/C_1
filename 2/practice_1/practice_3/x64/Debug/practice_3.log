@@ -1,0 +1,6 @@
+﻿  practice_3.c
+C:\Users\user\Desktop\26-1\C\2\practice_1\practice_3\practice_3.c(2,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+      C:\Users\user\Desktop\26-1\C\2\practice_1\practice_3\practice_3.c(2,9):
+      이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+  practice_3.vcxproj -> C:\Users\user\Desktop\26-1\C\2\practice_1\x64\Debug\practice_3.exe

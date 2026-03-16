@@ -1,0 +1,3 @@
+﻿  practice2.c
+practice2.obj : error LNK2005: main이(가) practice1.obj에 이미 정의되어 있습니다.
+C:\Users\user\Desktop\26-1\C\1\Solution1\Solution1\x64\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

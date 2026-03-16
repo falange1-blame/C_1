@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="practice_1/practice_1.vcxproj" Id="1fad69d4-08a0-4562-b233-186c667e9674" />
+  <Project Path="practice_10/practice_10.vcxproj" Id="d022e7f7-05b7-48e8-a65a-24df977ba473" />
+  <Project Path="practice_11/practice_11.vcxproj" Id="fd821f8b-49ad-4538-904d-b2c080da483b" />
+  <Project Path="practice_12/practice_12.vcxproj" Id="a83f2d3e-f31e-4152-b090-8cb6bda75238" />
+  <Project Path="practice_3/practice_3.vcxproj" Id="56cfbb87-6920-42e8-bcf1-90a8a06a15ed" />
+  <Project Path="practice_4/practice_4.vcxproj" Id="d2b55d3b-06bc-4727-8f40-33b63588f95b" />
+  <Project Path="practice_5/practice_5.vcxproj" Id="e3884f3b-0b02-400e-ad99-8969173abe6d" />
+  <Project Path="practice_6/practice_6.vcxproj" Id="b6f0e99c-d1b7-473f-912b-399dcadb7957" />
+  <Project Path="practice_7/practice_7.vcxproj" Id="e69a34b3-10c0-43d1-88de-fded1cc6a42c" />
+  <Project Path="practice_8/practice_8.vcxproj" Id="8f464c8a-2ccc-475e-9a60-575f1c1341cf" />
+  <Project Path="practice_9/practice_9.vcxproj" Id="bb2a6774-3ac3-45e9-b78f-9db4add28123" />
+  <Project Path="Project1/Project1.vcxproj" Id="7899332f-6203-4464-ab1d-75a3d8c2351a" />
+</Solution>

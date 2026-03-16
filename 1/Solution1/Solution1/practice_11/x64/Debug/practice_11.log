@@ -1,0 +1,6 @@
+﻿  practice_11.c
+C:\Users\user\Desktop\26-1\C\1\Solution1\Solution1\practice_11\practice_11.c(21,25): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\user\Desktop\26-1\C\1\Solution1\Solution1\practice_11\practice_11.c(21,25):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  practice_11.vcxproj -> C:\Users\user\Desktop\26-1\C\1\Solution1\Solution1\x64\Debug\practice_11.exe
