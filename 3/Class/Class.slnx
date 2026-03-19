@@ -7,4 +7,9 @@
   <Project Path="class_2/class_2.vcxproj" Id="1a7415d7-be77-41e6-a3d3-efe1fe693394" />
   <Project Path="class_3/class_3.vcxproj" Id="fb30e02c-7920-465e-89d4-f82a16bb1ef1" />
   <Project Path="class_4/class_4.vcxproj" Id="67e58959-cd1c-41d5-850b-f224ee8648d1" />
+  <Project Path="class_5/class_5.vcxproj" Id="7a8f06b3-6f4d-46a3-b34d-21f1919bee27" />
+  <Project Path="class_6/class_6.vcxproj" Id="71de944c-760c-4721-8af8-2ba92828bd35" />
+  <Project Path="class_7/class_7.vcxproj" Id="886b0155-7c7c-49f0-8bb9-df2b133bd6fa" />
+  <Project Path="class_8/class_8.vcxproj" Id="677f071b-074e-4545-92ab-e67837aa8d12" />
+  <Project Path="class_9/class_9.vcxproj" Id="618d744d-4788-4716-bcc5-77c2da0984d5" />
 </Solution>
