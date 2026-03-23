@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="online_1001/online_1001.vcxproj" Id="d6def8f5-d7ea-40ee-9751-724790ce2477" />
+  <Project Path="online_1005/online_1005.vcxproj" Id="786be2b1-0e8f-49bf-813b-918adeed4618" />
+  <Project Path="online_1006/online_1006.vcxproj" Id="81bcc5f1-1a44-413a-909a-4a1ea59944da" />
+  <Project Path="Online_1007/Online_1007.vcxproj" Id="e0512a0c-9608-4b5b-baa9-82ec01d25647" />
+  <Project Path="online_1008/online_1008.vcxproj" Id="6c28e6b2-7356-46d3-9202-f336a06e560b" />
+  <Project Path="online_1009/online_1009.vcxproj" Id="93a09e58-be01-44f5-a0a5-2059a28e15aa" />
+  <Project Path="online_1010/online_1010.vcxproj" Id="9d95af02-bd06-4a4b-9cd8-c7bd967add76" />
+  <Project Path="online_1011/online_1011.vcxproj" Id="e6c24ae3-edef-4966-9ab7-6fa6feed4193" />
+  <Project Path="online_1012/online_1012.vcxproj" Id="2508cc14-aa16-4f80-a16b-d635dfde57d9" />
+  <Project Path="online_1013/online_1013.vcxproj" Id="00dab1dd-d55e-473c-857c-51a084681c06" />
+  <Project Path="online_1014/online_1014.vcxproj" Id="4a8592cc-e63e-4f88-9929-504325d5271b" />
+  <Project Path="online_1015/online_1015.vcxproj" Id="cffbf997-2a43-45c7-a0d0-eb99e200b4d0" />
+</Solution>

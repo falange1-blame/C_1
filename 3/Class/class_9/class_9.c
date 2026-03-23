@@ -10,10 +10,10 @@ int main(void)
 	printf("Type a:   \n");
 	scanf("%d", &a);
 
-	printf("Type a:   \n");
+	printf("Type b:   \n");
 	scanf("%d", &b);
 	
-	int bigger = (a > b) ? a : b;
+	int bigger = (a > b) ? a : b; //not good C code
 
 	printf("\n");
 	printf("bigger one is %d\n", bigger);
