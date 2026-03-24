@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assignment1/Assignment1.vcxproj" Id="7be9fda4-91ac-45cc-96d3-83123fb1b27b" />
+  <Project Path="Assignment10/Assignment10.vcxproj" Id="2921ca1e-0490-4423-abe5-700d87cf2443" />
+  <Project Path="Assignment2/Assignment2.vcxproj" Id="68d3b358-cd17-4236-aa73-db17fd6b1076" />
+  <Project Path="Assignment3/Assignment3.vcxproj" Id="e23edeee-8f9a-4749-a360-53b9946c688b" />
+  <Project Path="Assignment3_1/Assignment3_1.vcxproj" Id="6a0420d4-6d17-4c71-bbd2-b8d0aac4896b" />
+  <Project Path="Assignment4/Assignment4.vcxproj" Id="e343b8eb-0f37-40b8-838f-cee35daf151d" />
+  <Project Path="Assignment5/Assignment5.vcxproj" Id="3f9cf6c9-6171-44bf-8504-f31dbe34c45d" />
+  <Project Path="Assignment6/Assignment6.vcxproj" Id="57065025-ef9c-4a40-b4c0-67353e7b68d7" />
+  <Project Path="Assignment6_2/Assignment6_2.vcxproj" Id="db77f123-409e-4858-b48d-f3db9d88adfc" />
+  <Project Path="Assignment7/Assignment7.vcxproj" Id="b891e081-0e70-41f3-979d-cfb74c240653" />
+  <Project Path="Assignment8/Assignment8.vcxproj" Id="96463423-ba9d-46a2-a041-41e2e5b007f4" />
+  <Project Path="Assignment9/Assignment9.vcxproj" Id="47badde5-cd9c-4160-849a-4fc42f99eac9" />
+</Solution>
