@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD1EA2F3-0A08-475E-9BC9-C567DD053035}|B8\\B8.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD1EA2F3-0A08-475E-9BC9-C567DD053035}|B8\\B8.vcxproj|solutionrelative:B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B4\\B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:B4\\B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C2820FF5-64BC-4F04-87DD-E89CB47FBBCB}|B4\\B4.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B4\\B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2820FF5-64BC-4F04-87DD-E89CB47FBBCB}|B4\\B4.vcxproj|solutionrelative:B4\\B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|solutionrelative:B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B6\\B6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:B6\\B6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CE271265-595E-49CE-8492-C800AF58D2AD}|B6\\B6.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B6\\B6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE271265-595E-49CE-8492-C800AF58D2AD}|B6\\B6.vcxproj|solutionrelative:B6\\B6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B8.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
+              "RelativeDocumentMoniker": "B8\\B8.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
+              "RelativeToolTip": "B8\\B8.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-01T05:42:47.007Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,9 +49,10 @@
               "RelativeDocumentMoniker": "B4\\B4.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B4\\B4.c",
               "RelativeToolTip": "B4\\B4.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-30T11:30:42.112Z"
+              "WhenOpened": "2026-03-30T11:30:42.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,19 +65,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-30T11:33:51.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "B8.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
-              "RelativeDocumentMoniker": "B8\\B8.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
-              "RelativeToolTip": "B8\\B8.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-30T11:44:37.55Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
