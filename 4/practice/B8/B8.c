@@ -41,7 +41,7 @@ int main(void)
 	reg |= MOTOR;
 	printf("SET MOTOR:            0x%02X  ", reg);
 	print_binary_8(reg);
-	printf("\n\n");
+	printf("\n");
 	
 	if (reg &= MOTOR)
 	{
@@ -88,3 +88,14 @@ int main(void)
 
 	return 0;
 }
+
+/* T.A. Solution
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main(void)
+{
+
+}
+
+*/

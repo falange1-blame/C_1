@@ -37,6 +37,20 @@ int main(void)
 
 	printf("Blue: %d %#02X ", Blue, Blue);
 	print_binary(Blue);
+	printf("=============================\n\n");
+
+	printf("Reconstructed:", (color ));
 
 	return 0;
 }
+
+/* T.A. Solution
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main(void)
+{
+
+}
+
+*/

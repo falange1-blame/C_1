@@ -7,6 +7,11 @@ int main(void)
 	double p1;
 	double p2;
 	double p3;
+	double A1;
+	double A2;
+	double A3;
+	double Sub;
+	double TAX;
 
 	int qty1;
 	int qty2;
@@ -21,11 +26,11 @@ int main(void)
 	printf("Type price and quantity of Item 3: ");
 	scanf("%lf %d", &p3, &qty3);
 
-	double A1 = p1 * qty1;
-	double A2 = p2 * qty2;
-	double A3 = p3 * qty3;
-	double Sub = A1 + A2 + A3;
-	double TAX = (A1 + A2 + A3) * 0.1;
+	A1 = p1 * qty1;
+	A2 = p2 * qty2;
+	A3 = p3 * qty3;
+	Sub = A1 + A2 + A3;
+	TAX = (Sub) * 0.1;
 
 	printf("============RECEIPT============\n");
 	printf("%-12s %3s %8s %8s\n", "Item", "Qty", "Price", "Amount");
@@ -42,3 +47,14 @@ int main(void)
 
 	return 0;
 }
+
+/* T.A. Solution
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main(void)
+{
+	
+}
+
+*/

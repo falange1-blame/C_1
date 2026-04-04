@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="oj1/oj1.vcxproj" />
+  <Project Path="oj2/oj2.vcxproj" />
+  <Project Path="oj3/oj3.vcxproj" />
+  <Project Path="oj4/oj4.vcxproj" />
+  <Project Path="oj5/oj5.vcxproj" />
+  <Project Path="oj6/oj6.vcxproj" />
+  <Project Path="oj7/oj7.vcxproj" />
+  <Project Path="oj8/oj8.vcxproj" />
+  <Project Path="oj9/oj9.vcxproj" />
+</Solution>
