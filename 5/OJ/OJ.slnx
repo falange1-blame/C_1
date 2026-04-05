@@ -3,13 +3,18 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="oj1/oj1.vcxproj" />
-  <Project Path="oj2/oj2.vcxproj" />
-  <Project Path="oj3/oj3.vcxproj" />
-  <Project Path="oj4/oj4.vcxproj" />
-  <Project Path="oj5/oj5.vcxproj" />
-  <Project Path="oj6/oj6.vcxproj" />
-  <Project Path="oj7/oj7.vcxproj" />
-  <Project Path="oj8/oj8.vcxproj" />
-  <Project Path="oj9/oj9.vcxproj" />
+  <Project Path="0j12/0j12.vcxproj" Id="2226ca21-b009-4ac4-b685-b49542d8be63" />
+  <Project Path="oj1/oj1.vcxproj" Id="07baf504-b87b-488c-9b02-63a98a9fa527" />
+  <Project Path="oj10/oj10.vcxproj" Id="7293086e-ae48-4b61-9087-e71bff7d3f51" />
+  <Project Path="oj11/oj11.vcxproj" Id="9d3c6833-7c6b-4bd8-a07e-74d8d4d8f76d" />
+  <Project Path="oj11_2/oj11_2.vcxproj" Id="e572f569-b746-4ab7-b0c2-b0dfc44692bd" />
+  <Project Path="oj12_2/oj12_2.vcxproj" Id="3ceec3df-ecac-424e-a324-ff3c8cc51655" />
+  <Project Path="oj2/oj2.vcxproj" Id="d0f50e4b-c7e4-4341-9442-541e4b777a69" />
+  <Project Path="oj3/oj3.vcxproj" Id="925d260f-375a-4775-97c7-78cc143d4e14" />
+  <Project Path="oj4/oj4.vcxproj" Id="8396e489-7f82-493b-a0fc-a13de7ef54fa" />
+  <Project Path="oj5/oj5.vcxproj" Id="f2cfdb12-6f59-4658-a0bd-d57ad36e7be5" />
+  <Project Path="oj6/oj6.vcxproj" Id="e1b7ddc5-5bd4-496e-a263-f56120372b3e" />
+  <Project Path="oj7/oj7.vcxproj" Id="8f83f525-72e4-4042-9f04-640bf04d630f" />
+  <Project Path="oj8/oj8.vcxproj" Id="dd8749eb-bda5-4afe-98ae-e77f4ffc36a3" />
+  <Project Path="oj9/oj9.vcxproj" Id="4c9a26d1-6bb6-4045-9074-e2a1d51afd52" />
 </Solution>

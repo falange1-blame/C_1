@@ -3,10 +3,11 @@
 
 int main(void)
 {
-	char a[51];
+	int i;
+	int f;
 
-	scanf("%s", &a[0]);
-	printf("%s", a);
+	scanf("%d.%d", &i, &f);
+	printf("%d\n%d\n", i, f);
 
 	return 0;
 }
