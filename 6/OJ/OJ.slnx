@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="oj1/oj1.vcxproj" Id="04dcb241-ff20-47ba-ba18-3863a234cb87" />
+  <Project Path="oj2/oj2.vcxproj" Id="701289ae-8725-4164-9a6d-cc95991c6e97" />
+  <Project Path="oj3/oj3.vcxproj" Id="6cf180a7-cdcc-4962-a109-64543f345032" />
+  <Project Path="oj4/oj4.vcxproj" Id="b49f84e3-56f4-4ad6-af33-0c6e7557ad27" />
+  <Project Path="oj5/oj5.vcxproj" Id="e3b4925f-e7cc-4079-ae1e-ea3ab49c333d" />
+  <Project Path="oj6/oj6.vcxproj" Id="d2b95552-052f-4ddb-a579-41bc2e8bb6bc" />
+</Solution>
