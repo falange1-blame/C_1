@@ -9,4 +9,12 @@
   <Project Path="oj4/oj4.vcxproj" Id="b49f84e3-56f4-4ad6-af33-0c6e7557ad27" />
   <Project Path="oj5/oj5.vcxproj" Id="e3b4925f-e7cc-4079-ae1e-ea3ab49c333d" />
   <Project Path="oj6/oj6.vcxproj" Id="d2b95552-052f-4ddb-a579-41bc2e8bb6bc" />
+  <Project Path="ojn1/ojn1.vcxproj" Id="f8d69238-a015-4dba-8155-28cb55bd3292" />
+  <Project Path="ojn2/ojn2.vcxproj" Id="50cba5dc-a1ae-496b-a357-e1bcc3156f16" />
+  <Project Path="ojn21/ojn21.vcxproj" Id="969138b0-01b1-4399-b01b-4f25b5f2626e" />
+  <Project Path="ojn3/ojn3.vcxproj" Id="c733dc0f-8669-4f44-ba89-d69cb88217d8" />
+  <Project Path="ojn4/ojn4.vcxproj" Id="277b897a-91da-4997-b1e6-1c4d51d04b6f" />
+  <Project Path="ojn5/ojn5.vcxproj" Id="649ddfa5-d0f2-4f07-860f-6c5e0643c580" />
+  <Project Path="ojn6/ojn6.vcxproj" Id="1407d2f2-1109-43e3-950d-39fddfc17375" />
+  <Project Path="ojn7/ojn7.vcxproj" Id="286a24aa-8196-41ec-a147-1132303a6f68" />
 </Solution>

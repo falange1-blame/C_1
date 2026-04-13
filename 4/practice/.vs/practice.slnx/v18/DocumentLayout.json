@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|solutionrelative:B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD1EA2F3-0A08-475E-9BC9-C567DD053035}|B8\\B8.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD1EA2F3-0A08-475E-9BC9-C567DD053035}|B8\\B8.vcxproj|solutionrelative:B8\\B8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32E19556-B0C7-4CD1-9514-774E3BF7172D}|B7\\B7.vcxproj|solutionrelative:B7\\B7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2820FF5-64BC-4F04-87DD-E89CB47FBBCB}|B4\\B4.vcxproj|C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B4\\B4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "P3\\B3.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwCUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T07:00:45.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T07:00:45.218Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "B4\\B4.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-30T11:30:42.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:30:42.112Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "B5\\B5.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T07:05:41.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T07:05:41.41Z"
             },
             {
               "$type": "Document",
@@ -85,31 +82,30 @@
               "RelativeToolTip": "B6\\B6.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-30T09:10:35.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T09:10:35.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "B7.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c",
               "RelativeDocumentMoniker": "B7\\B7.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B7\\B7.c",
               "RelativeToolTip": "B7\\B7.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-30T11:33:51.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "B8.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
               "RelativeDocumentMoniker": "B8\\B8.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\26-1\\C\\4\\practice\\B8\\B8.c",
               "RelativeToolTip": "B8\\B8.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-01T05:42:47.007Z",
               "EditorCaption": ""
