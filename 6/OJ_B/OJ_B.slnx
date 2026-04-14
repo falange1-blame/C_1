@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="oj4/oj4.vcxproj" Id="b9670836-7858-4123-b681-81e57065c032" />
+  <Project Path="oj_1/oj_1.vcxproj" Id="b1865560-53ea-4ba0-b57a-7cdf40b29299" />
+  <Project Path="oj_2/oj_2.vcxproj" Id="6a7d96b9-e221-407d-8c4e-b706da1847a6" />
+  <Project Path="oj_3/oj_3.vcxproj" Id="bcf92dc0-6d17-45e2-9c8e-2a51b1ea453a" />
+  <Project Path="oj_4/oj_4.vcxproj" Id="12f8d094-8b10-44bc-aaf9-399a0aa7b2e3" />
 </Solution>
