@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="a(1)/a(1).vcxproj" />
+  <Project Path="a1/a1.vcxproj" />
+  <Project Path="a2/a2.vcxproj" />
+  <Project Path="a3/a3.vcxproj" />
+  <Project Path="a4/a4.vcxproj" />
+  <Project Path="a5/a5.vcxproj" />
+  <Project Path="a6/a6.vcxproj" />
+  <Project Path="a8/a8.vcxproj" />
+</Solution>
